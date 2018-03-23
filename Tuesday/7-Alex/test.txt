@@ -1,3 +1,5 @@
 Hello World! This is a test file.
 
 This is a branching merge test.
+
+Prepare for a conflict
