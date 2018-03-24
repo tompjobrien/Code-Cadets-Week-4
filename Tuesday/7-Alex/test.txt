@@ -8,3 +8,5 @@ This is a different conflict file.
 Prepare for a conflict
 
 Pull request testing.
+
+More testing.
